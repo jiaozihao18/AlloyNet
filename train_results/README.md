@@ -1,0 +1,2 @@
+- The trained neural network.
+- Num 0-10 for 0:h, 1:cooh, 2:ocho, 3:co, 4:coh, 5:cho, 6:cocoh, 7:cocho, 8:o, 9:oh, 10:c
